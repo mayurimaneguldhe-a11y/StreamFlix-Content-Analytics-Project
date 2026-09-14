@@ -17,7 +17,11 @@ and watchlists), using MySQL for data processing and Power BI for reporting.
 - **Phase 4 — Dashboard & Report:** A 5-page interactive Power BI dashboard 
   and a CEO-facing management summary report with findings, risks, 
   opportunities, and recommendations.
+## Power BI Dashboard
 
+[Download Power BI Dashboard (.pbix)]
+
+https://drive.google.com/file/d/1TsWRInI5By4g-rwLmQV4C1vfdI-ExSCv/view?usp=sharing
 ## Tech Stack
 MySQL · Python (pandas, sqlalchemy) · Jupyter Notebook · Power BI
 
