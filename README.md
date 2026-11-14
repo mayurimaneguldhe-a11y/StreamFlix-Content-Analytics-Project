@@ -46,7 +46,7 @@ Notes on the data:
 2. Install the packages: `pip install pandas sqlalchemy pymysql matplotlib python-dotenv jupyter`
 3. Create a `.env` file in the project folder:
    ```
-   DB_PASSWORD="Mayuri04"
+   DB_PASSWORD=your_password_here
    ```
 4. Run the notebooks in order, Phase 1 to Phase 3. Each reads the password from `.env`, so no credentials are stored in the code.
 
