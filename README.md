@@ -32,6 +32,8 @@ Average completion is about 65% for both movies and TV shows, and engagement per
 ## Dashboard
 
 [View the dashboard as PDF](Phase4_StreamFlix_Mayuri_Maneguldhe.pdf)
+
+**[Download the Power BI dashboard (.pbix) from Google Drive](https://drive.google.com/file/d/1TsWRInI5By4g-rwLmQV4C1vfdI-ExSCv/view?usp=sharing)**
 ## Data
 
 The dataset is simulated, about 980,000 records across 6 tables: subscribers, titles, watch_history, ratings, reviews and watchlist. The raw data is not included in this repository.
